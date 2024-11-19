@@ -8,4 +8,4 @@ function Login({signIn}) {
   )
 }
 
-export default Login
+export default Login;
